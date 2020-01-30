@@ -2,7 +2,7 @@
 class Proxypool < Formula
   desc "Downloads,  checks and stores proxies from the web with rest api for querying results."
   homepage ""
-  version "0.1.0"
+  version "0.1.3"
   bottle :unneeded
 
   if OS.mac?
